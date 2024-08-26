@@ -97,8 +97,8 @@ prompt you for your password and record the hashed password in your
 .. code-block:: bash
 
     $ jupyter server password
-    Enter password:  ****
-    Verify password: ****
+    Enter password:  1939
+    Verify password: 1939
     [JupyterPasswordApp] Wrote hashed password to /Users/you/.jupyter/jupyter_server_config.json
 
 This can be used to reset a lost password; or if you believe your credentials
